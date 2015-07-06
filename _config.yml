@@ -1,0 +1,9 @@
+title: blog.edne.net
+author: Edoardo Negri
+email: edne@gmx.com
+baseurl: ""
+url: "http://blog.edne.net"
+twitter_username: edne0
+github_username:  edne
+
+markdown: kramdown
