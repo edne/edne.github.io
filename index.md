@@ -10,4 +10,4 @@ colorful flashing programs, bass music, high BPMs and recursive patterns.
 
 ### Projects
 
-* [Pineal](https://github.com/edne/pineal) watching music with code
+* [Pineal](https://github.com/edne/pineal): watching music with code
