@@ -1,7 +1,6 @@
 title: edne.net
 author: Edoardo Negri
 email: edne@gmx.com
-permalink: blog/:title
 baseurl: ""
 url: "http://edne.net"
 twitter_username: edne0
