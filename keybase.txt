@@ -1,0 +1,76 @@
+==================================================================
+https://keybase.io/edne
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://edne.net
+  * I am edne (https://keybase.io/edne) on keybase.
+  * I have a public key with fingerprint 23E4 BBA2 82CC B767 184B  90E7 F532 8D6D F593 04E2
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.9"
+        },
+        "key": {
+            "fingerprint": "23e4bba282ccb767184b90e7f5328d6df59304e2",
+            "host": "keybase.io",
+            "key_id": "F5328D6DF59304E2",
+            "uid": "a83e38cb9acae209846e6c625d275300",
+            "username": "edne"
+        },
+        "merkle_root": {
+            "ctime": 1436510775,
+            "hash": "aabd32c30d35abde5e7b8a6c16529236950d8cad9988af010812578c5c7b1518f1b411aa33463151e865dab6b47ef5e600bcb6f3f2acf5dfe708ff9c1d2a0847",
+            "seqno": 258635
+        },
+        "service": {
+            "hostname": "edne.net",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1436510841,
+    "expire_in": 157680000,
+    "prev": "c3672518aaaf1ed718d911921fe49a3179bc024b85978fd77031a09220b4eef8",
+    "seqno": 18,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v2
+
+owFVkltoHUUYx8+pJzVtE7EVjULBstRiSTiZy85lYxUf4kmo0JcaBS+czsx+e7LJ
+6e5xd5MaY7w8pVqRgFe8oC01D7XS1vqgLWpVKMT2RVCoFZVIoyZEDAYlSkB3QsR2
+nma++c1//v/5ZqL1qkJzsdD+zin91+BvxXOzutD35sBTo46O/RGna9Qx9RCizM4i
+tRecLmcQRrRKoRzGW6LYh/JAumWV6XCGIUnDOMopVBZlzxnrsLg9HIRRDZJGElot
+h1BwtVZEEmO04AJLV3sIRMAokT73A+ZR5ALJJfvjNLviVmdFsxr6ebVi+W7eXVnh
+77L80MqGkhSoNNpTRgFBnnQ5cMMJ84lgFCELppCsRgI/Aut1LySDdagmcbwS2GSh
+3cYu5QwjIVjuRqX9Vl5pnxJDkU9ZPgUGQkvFDeaMeIRyjyFfGuV7npQqQBhJTJiQ
+hhmhMcMywNrFWClKXU7zAkjOfKW5dgUEDDhC2mge0IAoEzA/AIFkEHgG+0Qh6Yrc
+fgoPR7HTRZjklI3ZdTIcGrC+7ZNdlqwcge1NI4mz2MT1vNqfZY0uGzgbaVhqH+jq
+6vnqpA4jP2/W5d3EOXrlY0gXdzjwSCNMoBpaggkuUT7sPTCcaxrKBcmjKqUCDH7e
+Yt/D2CM4ANdTFAtPG0RcLZknZOALgShWyCMEaRcgkP9HxDI3qmq5ZhrWIpUNJXmz
+ni5uLhWKzYW1TWvsfy2sX3ftf5/40Knmwjef/XzrtluGvus8UI+eUzuObDxz9I7O
+ZG3L9L6pXaMdR97eX4OJX3j8TKVv4cL05GsbdpvOeg2zez/ubVv46tmX0uzY4U3z
+O/856U5+f9sb25r+3jM+O37+3YNzPRuWT7968ZO2li+X5mh96nilqae0rjTzQOmj
+O+s/VETv8YNvrbnpxfb9rYl3oPj17j9G1yczi08sTdHNL8y2zV3/+A2Pbj0xfeyh
+z89+eBrdFy2f7Lv/z/Pz15lfL3Xfc3bmwu0t85/Otj9YKpD3N77+5NG7f+pZGnvs
+ZfdGuvDBofdObJ+8Jrw01btjgP24+Ep9onb1mdabYdPF8S/g9+eXt+/ku5SqBuf2
+fLu4dX7pXw==
+=tYCJ
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/edne
+
+==================================================================
