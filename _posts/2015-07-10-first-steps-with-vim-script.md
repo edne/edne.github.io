@@ -2,6 +2,7 @@
 layout: post
 title:  "First steps with Vim script"
 tags: vim firststeps dotfiles
+description: I didn't know the Vim language, but I wanted to enable spell checking; so I started coding
 ---
 
 # Starting
