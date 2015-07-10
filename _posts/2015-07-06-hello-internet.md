@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "Hello Internet!"
-categories: jekyll update
+tags: jekyll update
 ---
 I hate you.

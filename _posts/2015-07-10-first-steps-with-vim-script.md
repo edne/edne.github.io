@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "First steps with Vim script"
-categories: vim firststeps dotfiles
+tags: vim firststeps dotfiles
 ---
 
 # Starting
