@@ -12,6 +12,9 @@
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
+  {% if page.thumbnail %}
+  <meta property="og:image" content="{{ "/assets/" | prepend: site.baseurl | append: page.thumbnail }}">
+  {% endif %}
 
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
   <meta property="og:type" content="{% if page.tags %}article{% else %}website{% endif %}">
