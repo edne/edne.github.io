@@ -28,7 +28,7 @@ Edoardo Negri
 ## Programming & Technologies
 * Proficient in: Python, Hy, Clojure, Racket, Java, C
 * Familiar with: Bash, Haskell, Javascript, HTML, C++
-* Tech I use: GNU/Linux, Debian, Git, i3wm, Vim, OpenGL, pyglet,
+* Tech I use: GNU/Linux, Debian, Git, i3wm, Vim, OpenGL, Pyglet,
   AVR Microcontrollers
 
 ## Spoken Languages
