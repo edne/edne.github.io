@@ -33,7 +33,7 @@ Edoardo Negri
 
 ## Spoken Languages
 * **Italian**: mother tongue
-* **English**: B2 (TOEIC January 2014)
+* **English**: B2 (TOEIC January 2015)
 
 ## Interests & Membership
 * **POuL**: current Vice President of Politecnico Open unix Labs
