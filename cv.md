@@ -23,7 +23,8 @@ Edoardo Negri
 
 ## Education
 * 2006-2011: science High School Diploma
-* 2011-today: Bachelor of Electronic Engineering
+* 2011-2015: Bachelor of Electronic Engineering
+
 
 ## Programming & Technologies
 * Proficient in: Python, Hy, Clojure, Racket, Java, C
