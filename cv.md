@@ -17,13 +17,15 @@ Edoardo Negri
 
 
 ## Short Bio
-* I'm an Electronic Engineering Student at Politecnico di Milano, Italy. My main
-  interests are: computer graphics, signal processing and programming languages.
+* I'm a Computer Science Engineering Student at Politecnico di Milano, Italy.
+  My main interests are: computer graphics, signal processing and programming
+  languages.
 
 
 ## Education
-* 2006-2011: science High School Diploma
-* 2011-2015: Bachelor of Electronic Engineering
+* _2006-2011_: science High School Diploma (thesis: "Cellular Automata")
+* _2011-2015_: Bachelor of Electronic Engineering
+* _2015-future_: Computer Science Engineering studies
 
 
 ## Programming & Technologies
