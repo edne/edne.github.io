@@ -29,10 +29,9 @@ Edoardo Negri
 
 
 ## Programming & Technologies
-* Proficient in: Python, Hy, Clojure, Racket, Java, C
-* Familiar with: Bash, Haskell, Matlab, Javascript, HTML, C++
-* Tech I use: GNU/Linux, Debian, Git, i3wm, Vim, OpenGL, Pyglet,
-  AVR Microcontrollers
+* I am using now: Python, Hy, Bash, C++
+* I used in past: Clojure, Racket, Haskell, Matlab, Java, C
+* Tech I use: GNU/Linux, Debian, Git, Vim, OpenGL
 
 ## Spoken Languages
 * **Italian**: mother tongue
@@ -43,6 +42,7 @@ Edoardo Negri
   ([poul.org](https://poul.org)), an association of Politecnico di Milano students
   interested in Linux, hacking and FOSS.
 
-* **ToH**: member of the "Tower of Hanoi", the Politecnico di Milano Computer
-  Security Team, which main activities include partecipating in international
-  CTFs (Capture The Flag) competitions, and organize the PoliCTF.
+* **ToH**: member of the "[Tower of Hanoi](https://ctftime.org/team/300)", the
+  Politecnico di Milano Computer Security Team, which main activities include
+  partecipating in international CTFs (Capture The Flag) competitions, and
+  organize the PoliCTF.
