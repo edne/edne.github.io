@@ -18,7 +18,7 @@ Edoardo Negri
 
 ## Short Bio
 * I'm a Computer Science Engineering Student at Politecnico di Milano, Italy.
-  My main interests are: computer graphics, signal processing and programming
+  My main interests are: computer graphics, signal processing, compilers and programming
   languages.
 
 
@@ -29,7 +29,7 @@ Edoardo Negri
 
 
 ## Programming & Technologies
-* I am using now: Python, Hy, Bash, C++
+* I am currently using: Python, Hy, Bash, C++
 * I used in past: Clojure, Racket, Haskell, Matlab, Java, C
 * Tech I use: GNU/Linux, Debian, Git, Vim, OpenGL
 
