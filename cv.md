@@ -25,7 +25,7 @@ Edoardo Negri
 ## Education
 * _2006-2011_: science High School Diploma (thesis: "Cellular Automata")
 * _2011-2015_: Bachelor of Electronic Engineering
-* _2015-future_: Computer Science Engineering studies
+* _2016-future_: Master of Biomedical Engineering
 
 
 ## Programming & Technologies
