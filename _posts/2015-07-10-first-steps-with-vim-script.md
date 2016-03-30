@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "First steps with Vim script"
+title:  "Entering Vim script"
 tags: vim firststeps dotfiles
 thumbnail: vim-logo.png
 description: I didn't know the Vim language, but I wanted to enable spell checking; so I started coding
