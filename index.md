@@ -16,6 +16,9 @@ I'm not a security / pwning fan, but sometimes I play CTFs, they are great
 accasions to learn as many things as possible in a small amount of time
 (and I really like that!)
 
+&nbsp;
+&nbsp;
+&nbsp;
 
 # Projects
 
@@ -30,6 +33,9 @@ accasions to learn as many things as possible in a small amount of time
   Bash utility to generate [byte-beats](http://canonical.org/%7Ekragen/bytebeat/)
   compiling on the fly a single line C program.
 
+&nbsp;
+&nbsp;
+&nbsp;
 
 # Blog
 
@@ -41,6 +47,12 @@ accasions to learn as many things as possible in a small amount of time
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
+        {% if post.description %}
+            {{ post.description }}
+        {% endif %}
+        {% if post.excerpt %}
+            {{ post.excerpt }}
+        {% endif %}
       </li>
     {% endfor %}
   </ul>

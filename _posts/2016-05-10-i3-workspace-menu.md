@@ -7,6 +7,7 @@ tags: i3 i3wm workspace selection menu
 I really love the [i3 window manager](https://i3wm.org/), my only compliant
 was about the standard workspace handling.
 
+<!--more-->
 
 ## Before
 
