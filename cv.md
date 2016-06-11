@@ -16,12 +16,6 @@ Edoardo Negri
 * Github profile: `http://github.com/edne`
 
 
-## Short Bio
-* I'm a Computer Science Engineering Student at Politecnico di Milano, Italy.
-  My main interests are: computer graphics, signal processing, compilers and programming
-  languages.
-
-
 ## Education
 * _2006-2011_: science High School Diploma (thesis: "Cellular Automata")
 * _2011-2015_: Bachelor of Electronic Engineering
