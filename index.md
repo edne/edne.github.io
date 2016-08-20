@@ -29,7 +29,7 @@ accasions to learn as many things as possible in a small amount of time
   Concept for a generative, ASCII-art, self-printing logo for the **Codice Inutile**
   (useless code) artist collective.
 
-* ### [One Line Beat](https://github.com/edne/quine-logo)
+* ### [One Line Beat](https://github.com/edne/one-line-beat)
   Bash utility to generate [byte-beats](http://canonical.org/%7Ekragen/bytebeat/)
   compiling on the fly a single line C program.
 
