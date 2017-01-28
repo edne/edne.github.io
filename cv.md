@@ -27,35 +27,22 @@ permalink: /cv/
 
 
 ## Short Bio & Technologies
-During high school I learned **C**, and I used it for my
-thesis (some Wolfram 1D automata, the classical Game Of Life and a small
-environment simulator).
+During the high-school I get interested in computer and I learned on my own to
+code in some programming languages from **C** to **Java**.
 
-During the bachelor I moved to Linux and started writing **Python**, now I give
-lectures about it with my student association (we organize every year the
-"Python Courses" inside the _Politecnico di Milano_)
+In the bachelor years I start coding in **Python** and entered in a student
+association (**POuL**, _Politecnico Open unix Labs_), that aims to promote **Free
+Software** in the university giving courses and lectures about programming,
+**GNU/Linux** system administration and open source projects.
 
-After the bachelor I spent a year following courses from the master in Computer
-Science Engineering, the ones that I most enjoyed were _Code Transforming and
-Optimization_ and _Principles of Programming Languages_.
+I was vice-president in the year 2015-2016 and I'm still active, organizing
+activities and giving lectures, in particular for the annual _"Python
+Courses"_.
 
-With the programming languages course I learned the basics of **Haskell** and I
-discovered functional programming, immediately moving to **Lisp(s)** in particular
-**Hy**, a Clojure-flavoured Python.
+After the bachelor I spent a year following courses from the master in _Computer
+Science Engineering_, with particular interest for functional programming and
+compiler courses.
 
-Now I am attending a Master in Biomedical Engineering and in the spare time
-practicing with **Clojure**.
-
-
-## Memberships & Projects
-* **POuL**: Politecnico Open unix Labs ([poul.org](https://poul.org)), student
-  association, LUG and hackerspace inside the _Politecnico di Milano_.  We
-  organize courses and lectures about programming, system administration and,
-  once a year, privacy and security.
-  I am an active member since 2014 and I was vice-president in the year 2015-2016.
-
-* **Pineal**: a Graphic Synthesis Engine, my personal project for the last
-  years, it is a framework to live-code visuals at concerts and parties.
-  Currently made by a Lisp-DSL embedded in a C++ backend, communicating with
-  third-parties via the OSC protocol.
-  ([https://github.com/edne/pineal](https://github.com/edne/pineal))
+Now I am attending a Master in _Electronic technologies for Biomedical
+Engineering_, coding **Python**, **C++** and sometimes **Clojure** in the spare
+time.
