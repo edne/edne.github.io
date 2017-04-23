@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-# Curriculum Vitae of Edoardo Negri
+# Curriculum Vitae
 
 
 ## Personal Data & Contact
