@@ -20,23 +20,6 @@ accasions to learn as many things as possible in a small amount of time
 &nbsp;
 &nbsp;
 
-# Projects
-
-* ### [Pineal](https://github.com/edne/pineal)
-  Graphic Synthesis Engine, for live performances.
-
-* ### [Quine Logo](https://github.com/edne/quine-logo)
-  Concept for a generative, ASCII-art, self-printing logo for the **Codice Inutile**
-  (useless code) artist collective.
-
-* ### [One Line Beat](https://github.com/edne/one-line-beat)
-  Bash utility to generate [byte-beats](http://canonical.org/%7Ekragen/bytebeat/)
-  compiling on the fly a single line C program.
-
-&nbsp;
-&nbsp;
-&nbsp;
-
 # Blog
 
 <ul class="post-list">
